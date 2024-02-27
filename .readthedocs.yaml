@@ -11,4 +11,3 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
-  advice.detachedHead: false
